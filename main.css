@@ -1,0 +1,47 @@
+html {
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+button:hover {
+	background-color: black;
+}
+.Border {
+	border-radius: 10px;
+}
+button {
+	color: white;
+	background-color: 2B2B2B;
+}
+a {
+	text-decoration: none;
+	margin-left: 10px;
+	color: white;
+	text-align: center;
+}
+h1 {
+	border: 3px solid rgb(235, 195, 15);
+	border-radius: 15px;
+	width: 160px;
+	margin-left: 544px;
+}
+.Yes {
+	text-decoration: underline;
+}
+img {
+	width: 350px;
+	text-align: center;
+}
+.Summary {
+	text-decoration: underline;
+}
+p {
+	line-height: 2;
+}
+.entire {
+	margin-left: 495px;
+	width: 240px;
+}
+h2 {
+	text-decoration: underline;
+}
